@@ -36,4 +36,11 @@ A step before a high paying job is the education to obtain these roles. This vis
 
 ![image](https://github.com/KDiBSilva/Adult_Income/assets/122838459/52218210-c21b-4c17-a779-9c5b2878bc1b)
 
+This Continent feature previously reflected the native country for each individual, however this was compacted to continent for further use in our models. We see a strong presents of individuals from North America, they are also observed to have the greater count of income over 50K. South America having the least. 
+
+## (Need)BEST MODEL AND METRICS
+
+# (Need)how it will solve the problem
+
+# (Need)2 recommendations for organization based on model performance and analytical findings
 
