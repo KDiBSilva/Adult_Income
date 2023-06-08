@@ -1,10 +1,10 @@
 # Adult Income
 
 
-### Examining Connections for Adults Earning an Income Greater or Less than 50K.
+### Examining Connections for Adults Earning an Income Greater or Less than 50K for a Non- Profit Organization.
 Kristina DiBella Silva
 
-There are multiple variables to acccount for annual income. In this exploration we look at the data from an individuals Native Country to their Capital gains and losses. We look to see what are the correlations are that put an individual to earn an income higher or lower than $50,000.
+There are multiple variables that acccount for annual income. This Non-profit wanted to use this dataset to explore the probability of an individuals income being higher or lower than $50,000, regardless of gender or cultural background. We are exploring the dataset to find what behaviors can earn an adult a higher income and what may restrict them. As well as evaluating the trends of discrimination.
 
 ___
 
@@ -27,9 +27,10 @@ ___
 ![image](https://github.com/KDiBSilva/Adult_Income/assets/122838459/c2665885-fec9-4ff1-baac-031578e6ee0f)
 
 Occupation being a key factor for annual income, this barplot shows the number each employment role by gender and their income level. We see that in this dataset the Males are more likely to earn a higher income, greater than 50K. We also see that for both genders the highest wages are within the "Exec-mangerial" and "Prof-specialty" roles. 
+In this dataset there is a higher count of observations of Males which is what can show such contract, but still a notable observation. 
 
 
 ![image](https://github.com/KDiBSilva/Adult_Income/assets/122838459/c0723d2f-5138-4844-979b-30bfdc201336)
 
-A step before a high paying job is the education or qualification to perform these role. On this count plot we 
+A step before a high paying job is the education or qualifications to perform these role. On this count plot we see that the higher number of education. 
 
