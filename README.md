@@ -37,10 +37,30 @@ A step before a high paying job is the education to obtain these roles. This vis
 ![image](https://github.com/KDiBSilva/Adult_Income/assets/122838459/52218210-c21b-4c17-a779-9c5b2878bc1b)
 
 This Continent feature previously reflected the native country for each individual, however this was compacted to continent for further use in our models. We see a strong presents of individuals from North America, they are also observed to have the greater count of income over 50K. South America having the least. 
+___
+#### Models Tested
+* K- Nearest Neighbors Classifier
+* Logistic Regression
+* Decision Tree Classifier
+* Random Forest Classifier
 
-## (Need)BEST MODEL AND METRICS
+#### Decision Tree Classifier was the chosen model
 
-# (Need)how it will solve the problem
+For Test Performance Scoring:
 
-# (Need)2 recommendations for organization based on model performance and analytical findings
+- Accuracy: 0.857092	
 
+- Recall: 0.592288	
+
+- Precision: 0.778508	
+
+- F1 Score: 0.672749
+
+Decision Tree Tuned Model has the second highest accuracy score of 85.7%. Random Forset being first with a slight increase of 85.8%.
+
+Random Forest had more true negatives but Decision Tree had more true positives. Which is something all models struggled with, predicting true positives(income greater than 50K). With an off balanced dataset its important to more accurately capture the true positives as it is the lesser group, Decision Tree also had more false positives. Although, this model is not perfect, the performance to determine the positive class, either true or false, is helpful in evaluating an imbalanced dataset. Determining whether an individual is likly to earn an income greater than 50K or equal to 50K or less. 
+
+
+# Recommendations 
+
+All models are  lacking in the ability to perdict True Positves. This can be that the dataset is off balance with a greater amount of individuals with an income of 50K or less. We could balance the data with under sampling to make the 50K or less match the greater than 50K observations, this would be the prefered method, instead of duplicating or randomized additional data to the greater than 50K group to match the less than or equal to 50K group.
