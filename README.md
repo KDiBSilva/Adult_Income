@@ -29,12 +29,12 @@ ___
 Occupation being a key factor for annual income, this barplot shows the number each employment role by gender and their income level. We see that in this dataset the Males are more likely to earn a higher income, greater than 50K. We also see that for both genders the highest wages are within the "Exec-managerial" and "Prof-specialty" roles. In this dataset there is a higher count of observations of Males which is what can show such contract, but still a notable observation. 
 
 
-![image](https://github.com/KDiBSilva/Adult_Income/assets/122838459/c0723d2f-5138-4844-979b-30bfdc201336)
+![image](https://github.com/KDiBSilva/Adult_Income/assets/122838459/99b68b14-bfb0-45f4-b898-e661854fe989)
 
 A step before a high paying job is the education to obtain these roles. This visual tells us that the amount of years of education is indeed a factor for individuals earning greater than 50K. There is not a constant increase but we see that those with 9 years have the most instances of a higher income, however there are still a larger amount of people between 9 and 13 years of education that are 50K or less. Where there is a consistant trend of income greater than 50K for those with 14 to 16 years of education. Education is not a widely available oppertunity and the amount of variables to persue such extensive education can be a burden and a hardship on income and life syle, when sizeable time is being taken for a paticular career choice.   
 
 
-![image](https://github.com/KDiBSilva/Adult_Income/assets/122838459/52218210-c21b-4c17-a779-9c5b2878bc1b)
+![image](https://github.com/KDiBSilva/Adult_Income/assets/122838459/60f9d0fc-95f8-4c06-ac62-b220cebec679)
 
 This Continent feature previously reflected the native country for each individual, however this was compacted to continent for further use in our models. We see a strong presents of individuals from North America, they are also observed to have the greater count of income over 50K. South America having the least. 
 ___
