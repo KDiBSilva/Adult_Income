@@ -7,7 +7,6 @@ Kristina DiBella Silva
 
 There are multiple variables that account for annual income. This Non-profit wanted to use this dataset to explore the probability of an individual's income being higher or lower than $50,000, regardless of gender or cultural background. We are exploring the dataset to find what behaviors can earn an adult a higher income and what may restrict them. As well as evaluating the trends of discrimination
 
-
 ___
 
 ### Data Source
